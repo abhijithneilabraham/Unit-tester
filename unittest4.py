@@ -20,6 +20,7 @@ class testingmethods(unittest.TestCase):
     
 tester=testingmethods()
 tester.test1()
+unittest.main()
 
 
 
